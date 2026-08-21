@@ -14,7 +14,7 @@
 7월 30일에 등장한 신규 사도인 에슈르(마도)는 큰 캐릭터 파츠를 가지고 있어
 대표적인 테스트 및 캡처 대상으로 활용했습니다.
 
-<img src="./Image/hit-area-magi-ashur.jpg" width="500">
+<img src="../Image/hit-area-magi-ashur.jpg" width="500">
 
 ---
 
